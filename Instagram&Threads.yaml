@@ -1,0 +1,12 @@
+payload:
+  # NAME: Instagram&Threads
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,instagram.qjz9.com
+  - DOMAIN-SUFFIX,ig.me
+  - DOMAIN-SUFFIX,igsonar.com
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,igcdn
+  - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-KEYWORD,threads

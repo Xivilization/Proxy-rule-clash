@@ -1,0 +1,5 @@
+payload:
+  # > Quora & Poe (建议走美国节点)
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,quoracdn.net
+  - DOMAIN-SUFFIX,poe.com

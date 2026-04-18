@@ -1,0 +1,9 @@
+payload:
+  # NAME: Bybit
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bytick.com
+  - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bycsi.com
+  - DOMAIN-SUFFIX,byb.it
+  - DOMAIN-KEYWORD,bybit
+  - DOMAIN-KEYWORD,bytick

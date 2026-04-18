@@ -1,0 +1,14 @@
+payload:
+  # 3HK(包含 DIY 储值卡和3Care业务)
+  - DOMAIN-SUFFIX,three.com.hk
+  - DOMAIN-SUFFIX,3care.com.hk
+  - DOMAIN-SUFFIX,3mall.com.hk
+  - DOMAIN-SUFFIX,3supreme.com.hk
+  - DOMAIN-KEYWORD,3hk
+  # ClubSim(依托CSL网络和TheClub账号生态)
+  - DOMAIN-SUFFIX,clubsim.com.hk
+  - DOMAIN-SUFFIX,theclub.com.hk
+  - DOMAIN-SUFFIX,hkcsl.com
+  - DOMAIN-SUFFIX,csl.com.hk
+  - DOMAIN-SUFFIX,hkt.com
+  - DOMAIN-KEYWORD,clubsim

@@ -1,0 +1,19 @@
+payload:
+  # > Proton (香港)
+  - DOMAIN-SUFFIX,proton.me
+  - DOMAIN-SUFFIX,protonmail.com
+  - DOMAIN-SUFFIX,pm.me
+  - DOMAIN-SUFFIX,protonmail.ch
+  - DOMAIN-SUFFIX,protonstatus.com
+  - DOMAIN-SUFFIX,protonvpn.com
+
+  # > Yahoo (美国)
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yimg.com
+  - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yahoodns.net
+
+  # > AOL (美国)
+  - DOMAIN-SUFFIX,aol.com
+  - DOMAIN-SUFFIX,aolcdn.com
+  - DOMAIN-SUFFIX,aolnews.com

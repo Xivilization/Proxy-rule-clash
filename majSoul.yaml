@@ -1,0 +1,14 @@
+payload:
+  # > 雀魂国际服 - 资源下载与日志 (直连)
+  - DOMAIN-SUFFIX,gateway-cdn.maj-soul.com
+  - DOMAIN-SUFFIX,lb-cdn.maj-soul.com
+  - DOMAIN-SUFFIX,gateway-hw.maj-soul.com
+  - DOMAIN-SUFFIX,lb-hw.maj-soul.com
+  - DOMAIN-SUFFIX,majsoul-hk-client.cn-hongkong.log.aliyuncs.com
+
+  # > 雀魂国际服 - 游戏对局与账号登录 (香港代理)
+  - DOMAIN-SUFFIX,maj-soul.com
+  - DOMAIN-SUFFIX,mahjongsoul.com
+  - DOMAIN-SUFFIX,catmjstudio.com
+  - DOMAIN-SUFFIX,yo-star.com
+  - DOMAIN-SUFFIX,yostar.com
